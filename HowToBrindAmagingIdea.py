@@ -1,5 +1,5 @@
 # Ita all about who consciously you think.
-# In my opinions if you think  3 to 4 days of a idea you will bring a sophisticate idea to world.
+# In my opinions if you think 2 days of a idea you will bring a sophisticate idea to world.
 
 # Lest Understand if you do a 8 hours job in a corporate house
 # and you do 5 days in a week basic with lifetime.
