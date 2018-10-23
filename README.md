@@ -1,6 +1,5 @@
 # PythonicWisdom
 Mathatical Description of Reals life Understanding.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WD00qC-copw
-" target="_blank"><img src="https://i.ytimg.com/vi/WD00qC-copw/maxresdefault.jpg" 
+<a href="https://youtu.be/AppsUACRGiY" target="_blank"><img src="https://www.vedicgrace.com/articles/wp-content/uploads/2016/10/Mata-Laxmi-images.jpg" 
 alt="Sushen Biswas" width="800" height="500" border="10" /></a>
