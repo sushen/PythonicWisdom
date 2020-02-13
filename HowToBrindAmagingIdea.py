@@ -41,7 +41,7 @@ You_will_spend_How_Much_Month = You_will_spend_How_Much_day /30
 
 You_will_spend_How_Much_Years = You_will_spend_How_Much_Month/12
 
-print("Total " + str(You_will_spend_How_Much_Years) + " years you have to work if you do a 8 hours daily job.")
+print("In your whole life, you have to work for " + str(You_will_spend_How_Much_Years) + " (almost 7) years if you work daily for 8 hours.")
 
 
 # Now People are saying its take 2 to 3 years to stabilise a business idea.
@@ -64,7 +64,7 @@ Total_Thinking_of_a_Years = Total_Thinking_of_a_Month * 12
 How_Many_Hours_You_think = Total_Thinking_of_a_Years / 60
 #print(How_Many_Hours_You_think)
 How_Many_Days_You_think = How_Many_Hours_You_think /24
-print("Total "+ str(How_Many_Days_You_think) + " Days to take bring a full face problem solver Idea.")
+print("Ii takes "+ str(How_Many_Days_You_think) + " (less than 2 )days to bring a full-face Idea that can use to solve a great problem.")
 
 # So In my opinion with deep contemplating if you bring a problem its take not more than 2 days to solve.
 # But I will want tell you some more. The Moon Science. Every mature woman will understand it more than man.
@@ -73,7 +73,7 @@ print("Total "+ str(How_Many_Days_You_think) + " Days to take bring a full face 
 # If you practices this before Full Moon Your Body will be Supportive.
 # After Full Moon Its not Ideal Body Condition to Do Such Thing.
 
-print("\nIts your choice to decide what you will do bring a solution or do a job.")
+print("\nIts your choice to decide what you will do with your life.\nbring a solution within 2 Days (1.67).\nOr\nDo a 7(6.67) years job.")
 
 
 
