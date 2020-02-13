@@ -1,13 +1,13 @@
-# Ita all about who consciously you think.
-# In my opinions if you think 2 days of a idea you will bring a sophisticate idea to world.
-
-# Lest Understand if you do a 8 hours job in a corporate house
-# and you do 5 days in a week basic with lifetime.
-# lets say you join this job in you 26 years age and
-# you will retired in your 56 years old how many hours you expend in your work.
-# Its you achievement of lifetime. it ant it?
-
-# Lets bring the mathematics.
+# It's all about how consciously you think.
+# In my opinion, if you think 3 to 4 days of an idea, you will bring a sophisticated idea to the world.
+#
+# Let's Understand if you do an 8 hours job in a corporate house.
+# And you do 5 days every week, with a lifetime.
+# let's say, you join this job in your 26 years age and
+# you will be retired in your 56 years old.
+# How many hours did you expend in your work?
+# It's your achievement of a lifetime. Isn't it?
+# Let's bring mathematics in that sitution!
 
 Daily_Hours = 8
 Per_Week_Days = 5
@@ -41,28 +41,34 @@ You_will_spend_How_Much_Month = You_will_spend_How_Much_day /30
 
 You_will_spend_How_Much_Years = You_will_spend_How_Much_Month/12
 
-print("In your whole life, you have to work for " + str(You_will_spend_How_Much_Years) + " (almost 7) years if you work daily for 8 hours.")
+print("\nIn your whole life, you have to work for " + str(You_will_spend_How_Much_Years) + " (almost 7) years if you work daily for 8 hours.\n")
 
-
-# Now People are saying its take 2 to 3 years to stabilise a business idea.
+# Now People are saying it takes 2 to 3 years to stabilize a business idea.
 # You must understand what is Idea?
-# Idea is some thing can solve problem.
-# Idea comes your mind every time any time.
-# Sometime you write it down and most of the time its go way and its naver come back.
-# People hardly use there own Idea.
-# Some People really do and they stack in there Own Idea and 2 to 3 years pass and they make there family happy.
-# In my opinion you can hardly think 10 mints and extend your idea and within 3 years you loos full motivation.
-# So What will be the Mathematics of that?
+# Idea is something that can solve a problem.
+
+# Idea comes to your mind every time at any time.
+# Sometimes you write it down and most of the time it goes the way
+# and it never comes back.
+
+# People hardly use their Idea.
+# Some People do and they stack in their Idea for 2 to 3 years pass
+# #and they make their family happy.
+
+# In my opinion, you can hardly think 10 mints and extend your idea and You work with that pttern
+# within 3 years you lose full motivation.
+
+# So What will be the Mathematics that really heap and bring a real solution?
 
 Total_Thinking_of_a_day = 10
 Total_Thinking_of_a_Week = Total_Thinking_of_a_day * 5
-#print(Total_Thinking_of_a_Week)
+print(Total_Thinking_of_a_Week)
 Total_Thinking_of_a_Month = Total_Thinking_of_a_Week * 4
-#print(Total_Thinking_of_a_Month)
+print(Total_Thinking_of_a_Month)
 Total_Thinking_of_a_Years = Total_Thinking_of_a_Month * 12
-#print(Total_Thinking_of_a_Years)
+print(Total_Thinking_of_a_Years)
 How_Many_Hours_You_think = Total_Thinking_of_a_Years / 60
-#print(How_Many_Hours_You_think)
+print(How_Many_Hours_You_think)
 How_Many_Days_You_think = How_Many_Hours_You_think /24
 print("Ii takes "+ str(How_Many_Days_You_think) + " (less than 2 )days to bring a full-face Idea that can use to solve a great problem.")
 
